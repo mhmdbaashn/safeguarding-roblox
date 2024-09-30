@@ -142,7 +142,7 @@ color:#FBFBFB ;
   
 
 #partner-guid {
-  height: 80vh;
+  height: 90vh;
   display: flex;
   justify-content: flex-end;
   align-items: center;
@@ -157,6 +157,40 @@ color:#FBFBFB ;
   flex-direction: column;
 
 }
+#resourses {
+  height: 90vh;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: #426FB2;
+}
+
+#resourses .resourses-content {
+
+  display: flex;
+  flex-direction: column;
+
+}
 
 
-  
+#report {
+  height: 90vh;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: #FBFBFB;
+}
+
+
+
+#report .report-content {
+
+  display: flex;
+  flex-direction: column;
+
+} 
+#report .report-content a {
+  color: red;
+  text-decoration: underline;
+}
+
