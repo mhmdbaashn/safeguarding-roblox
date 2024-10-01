@@ -191,7 +191,7 @@ text-align: center;
 
 
 #report {
-  background-color: #FBFBFB;
+  background-color: #426FB2;
     height: 90vh;
     display: flex;
     justify-content: space-evenly;
@@ -243,13 +243,13 @@ text-decoration: underline;
 
 }
 footer {
-  background-color: #426FB2;
+  background-color: FBFBFB;
   height: 60px;
 
 
 }
 footer  p{
-color: #FBFBFB;
+color: #426FB2;
 text-align: center;
 padding: 20px;
 font-size: 18px;
