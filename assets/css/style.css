@@ -5,7 +5,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
     scroll-behavior: smooth;
 }
 
@@ -37,10 +36,14 @@ h3 {
 
 .container {
   max-width: 1100px;
-  margin: auto;
+  margin: 0 auto;
+  padding: 0 15px;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
+  gap: 100px;
+
 }
+  /* Header Start */
 
 header {
     height: 100vh;
@@ -86,7 +89,7 @@ header {
     
 }
 
-     .content  .content-text {
+.content  .content-text {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -140,23 +143,35 @@ color:#FBFBFB ;
     color: #e4b95b;
   }
   
+  /* <!-- Header End --> */
 
-#partner-guid {
-  height: 90vh;
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-  background-color: #FBFBFB;
+  /* Partner Guid Section Start */
+
+  #partner-guid {
+    background-color: #FBFBFB;
+    height: 90vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+  }
+  .partner-content{
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px ;
 }
 
 
 
-#partner-guid .partner-content {
 
-  display: flex;
-  flex-direction: column;
+  
+  /* Partner Guid Section Start */
 
-}
+
+
 #resourses {
   height: 90vh;
   display: flex;
@@ -174,23 +189,55 @@ color:#FBFBFB ;
 
 
 #report {
-  height: 90vh;
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
   background-color: #FBFBFB;
+    height: 90vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
-
 
 
 #report .report-content {
 
-  display: flex;
-  flex-direction: column;
+  width: 50%;
+  border: 3px solid black;
+  border-radius: 10px 10px 60px 10px;
+  padding: 20px
+}
 
-} 
+#report .report-content h2 {
+  color:  #426FB2;
+
+}
+
 #report .report-content a {
   color: red;
   text-decoration: underline;
 }
 
+#report .call {
+
+  width: 50%;
+  
+  border: 3px solid black;
+  border-radius: 10px 10px 10px 60px;
+  padding: 20px
+
+}
+
+#report .call h2 {
+color:  #426FB2;
+padding: 0 12px;
+}
+#report .call p {
+padding: 20px 60px;
+line-height: 25px;
+}
+
+#report .call a {
+
+color: red;
+text-decoration: underline;
+
+
+}
