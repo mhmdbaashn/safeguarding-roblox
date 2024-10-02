@@ -16,8 +16,10 @@ Deployed Link
 -----------------
 https://mhmdbaashn.github.io/safeguarding--roblox/
 
+Wireframes - Google Slide
+----------
 
-
+![image](https://github.com/user-attachments/assets/dbfafdcb-611c-4a25-862a-77cf5b687880)
 
 
 
