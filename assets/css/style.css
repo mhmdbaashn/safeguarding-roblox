@@ -14,7 +14,18 @@ body {
     font-family: "Poppins", sans-serif;
   }
 
-.section {
+.group1,
+.group2,
+.group3 {
+    height: 600px;
+    padding-top: 13rem;
+}
+.group1,
+.group3 {
 
+    background-color: lightsteelblue;
+}
 
+.group2 {
+    background-color: #fff;
 }
