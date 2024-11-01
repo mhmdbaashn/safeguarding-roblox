@@ -28,12 +28,10 @@ Wireframes - Google Slide
 - [ ] Update the website
 - [ ] Contact the media
 
- 	| Syntax | Description |
+
+  | Syntax      | Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text | 
-
-
-
+| Header      | Title       |
+| Paragraph   | Text        |
 
 
