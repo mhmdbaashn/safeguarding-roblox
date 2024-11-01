@@ -28,7 +28,10 @@ Wireframes - Google Slide
 - [ ] Update the website
 - [ ] Contact the media
 
-
+ 	| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text | 
 
 
 
