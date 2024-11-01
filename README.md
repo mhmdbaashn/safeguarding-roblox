@@ -46,4 +46,9 @@ Wireframes - Google Slide
 | Header      | Title       |
 | Paragraph   | Text        |
 
+<br>
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title |
+| Paragraph   | First paragraph. <br><br> Second paragraph. |
